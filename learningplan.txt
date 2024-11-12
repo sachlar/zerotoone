@@ -1,0 +1,172 @@
+# From Zero to One 
+
+## Building Data Engineering Knowledge From The Ground Up, In My Humble Opinion. 
+
+## PRE_CORE 0.5 
+
+Learn GIT first then every bit of code and documentation you write can be stored in git for reference, so when you learn Python or SQL or any of the tech in this learning path it's stored in github as a living record.
+
+### Git & Github
+1. Github Udemy Git & Github Complete Masterclass - https://www.udemy.com/course/git-basic-concept-fundamentals-github/
+2. Github Introduction - https://github.com/skills/introduction-to-github 
+3. Github Intro - https://lab.github.com/githubtraining/introduction-to-github
+4. Git branching - https://learngitbranching.js.org/
+5. Learn & Practice Git - https://gitexercises.fracz.com/
+
+# Zach Wilson recomends learning github  
+* create a GitHub account 
+* learn how to commit and save code locally and remotely 
+* learn how to merge others code into yours 
+* learn how to create a pull request to get feedback on your changes 
+
+## Core 1
+### Python 
+1. Datacamp data eng with python, Data Eng with python - https://app.datacamp.com/learn/career-tracks/data-engineer-with-python
+2. Dr Chuck Python for everybody - https://www.coursera.org/learn/python?specialization=python](https://www.coursera.org/learn/python?specialization=python 
+3. Data Structures - https://www.coursera.org/learn/python-data?specialization=python](https://www.coursera.org/learn/python-data?specialization=python
+4. Using Python to access web data - https://www.coursera.org/learn/python-network-data?specialization=python](https://www.coursera.org/learn/python-network-data?specialization=python
+5. Using databases with python - https://www.coursera.org/learn/python-databases?specialization=python](https://www.coursera.org/learn/python-databases?specialization=python 
+6. Retrieve, Process & Visualise data with python - https://www.coursera.org/learn/python-data-visualization?specialization=python
+7. Practical Python Programming with David Beazley - https://github.com/dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python
+8. Python data handling deeper dive - http://www.dabeaz.com/datadeepdive/](http://www.dabeaz.com/datadeepdive/ 
+9. Python3 metaprogramming - http://www.dabeaz.com/py3meta/
+10. Generators 3 part trilogy - http://www.dabeaz.com/finalgenerator/ 
+11. Logging a reference - http://www.dabeaz.com/special/Logging.pdf
+12. Allen Downey & Data Structures & Info Retrieval in Python - https://allendowney.github.io/DSIRP/
+13. Real Python Tutorials - https://realpython.com/
+
+## Core 2 
+### SQL
+1. UDEMY SQL Bootcamp - https://www.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/19242668?start=0#overview
+2. Select Star SQL - https://selectstarsql.com/
+3. SQL Murder Mystery - https://mystery.knightlab.com/ 
+4. SQL Police - https://sqlpd.com/
+5. Mode SQL Tutorial https://mode.com/sql-tutorial/ (Chapters Advanced SQL & SQL analytics training) 
+6. SQL for the rest of us - https://technically.dev/posts/sql-for-the-rest-of-us 
+7. SQL Bolt - https://sqlbolt.com/
+8. Indexing e-book - https://use-the-index-luke.com/ 
+9. Practice SQL on hackerrank - https://www.hackerrank.com/domains/sql
+10. Compare Redshift, Big Query & Snowflake from a perspective of their SQL dialects. 
+
+11. A curious moon ebook - https://bigmachine.io/products/a-curious-moon/
+12. Also bought the video walkthrough - https://bigmachine.io/checkout/order-received/25225/?key=wc_order_6tUkDG9TVOwsR&utm_nooverride=1
+13. Dr Martin Loetzsch Data Modelling Part 1 - https://www.youtube.com/watch?v=8HlNG8bdlM0 
+14. Data Modelling Part 2 - https://www.youtube.com/watch?v=24Uvo5vZJWA 
+
+## Core 3 
+### CLI & Linux 
+1. Data Science at the Command Line - https://www.datascienceatthecommandline.com/2e/
+2. Udemy Linux for beginners - https://www.udemy.com/course/linuxforbeginners/
+
+## Level Up Knowledge 
+### Acquisition
+1. Automate Data Scraping - https://airbyte.com/tutorials/data-scraping-with-airflow-and-beautiful-soup
+2. Github activity dashboard - https://airbyte.com/tutorials/build-a-github-activity-dashboard-for-your-project
+3. Data stack with Docker - https://airbyte.com/tutorials/modern-data-stack-docker
+
+### Events 
+1. Confluent cloud learn - https://confluent.cloud/learn 
+2. Kafka Connect 
+3. Schema Registry 
+4. ksqlDB 
+5. Build a client application (Python) 
+
+### Orchestration
+1. Prefect Core Engine - https://docs.prefect.io/core/
+Prefect Core engine getting 
+2. tutorial - https://docs.prefect.io/core/getting_started/quick-start.html
+3. Prefect Core engine ETL tutorial - https://docs.prefect.io/core/tutorial/01-etl-before-prefect.html
+4. Prefect Orchestration & API getting started tutorial - https://docs.prefect.io/orchestration/getting-started/quick-start.html
+
+### Transformation
+1. DBT fundamentals - https://courses.getdbt.com/courses/fundamentals
+2. DBT Bootcamp - https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/?referralCode=659B6722C93EF4096D11
+
+### Computation
+1. Advanced SQL window functions quiz - https://www.windowfunctions.com/
+2. SQL Window Functions - https://mode.com/sql-tutorial/sql-window-functions/
+3. Saturn Cloud Quickstart & examples - https://www.saturncloud.io/docs/ 
+
+### Data Quality
+1. Great Expectations Intro - https://docs.greatexpectations.io/docs/tutorials/getting_started/intro
+2. Expectations Core Skills -https://docs.greatexpectations.io/docs/guides/expectations/how_to_create_and_edit_expectations_based_on_domain_knowledge_without_inspecting_data_directly
+
+### Deployment
+1. Infrastructure as code: Rafael Seemann: Own your events tracking - https://medium.com/@seemannr/own-your-events-tracking-18977e0e8295
+2. Deploying to pythonanywhere via github - https://medium.com/@aadibajpai/deploying-to-pythonanywhere-via-github-6f967956e664
+3. Git Scraping - deltas by scraping a git repo - https://simonwillison.net/2020/Oct/9/git-scraping/ 
+4. Great Expectations + Github Action - https://github.blog/2020-10-01-keeping-your-data-pipelines-healthy-with-the-great-expectations-github-action/
+5. Logging in python by @realpython - https://realpython.com/python-logging/
+Ship python logs to Logz.io - https://docs.logz.io/shipping/log-sources/python.html#overview
+
+### Docker
+1. Deep dive to python image - https://pythonspeed.com/articles/official-python-docker-image/
+2. How to Dockerise - https://hackernoon.com/how-to-dockerize-any-application-b60ad00e76da
+3. Learn docker in 12 minutes - https://www.youtube.com/watch?v=YFl2mCHdv24
+4. Docker Interactive Sign up and into docker hub 1. First alpine linux containers - https://training.play-with-docker.com/ops-s1-hello/
+5. Doing more with docker images - https://training.play-with-docker.com/ops-s1-images/
+6. Docker Compose Docker Compose in 12 minutes - https://www.youtube.com/watch?v=Qw9zlE3t8Ko
+7. Get started with docker compose - https://docs.docker.com/compose/gettingstarted/
+3. Simplify all the things with docker compose - https://www.youtube.com/watch?v=QeQ2MH5f_BE
+
+### Data Products 
+1. Datasette an introduction to datasette & sqlite-utils - https://simonwillison.net/2021/Feb/7/video/ 
+2. Making datasets fly with datasette & Fly - https://fly.io/blog/making-datasets-fly-with-datasette-and-fly/
+
+### Flask/APIs 
+1. Build, Deploy & Run Flask on Fly - https://fly.io/docs/getting-started/python/
+2. Designing a RESTful API with Python & Flask - https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+3. Deploy a machine learning model using Flask - https://towardsdatascience.com/deploy-a-machine-learning-model-using-flask-da580f84e60c
+4. Ship a local flask using previous model with Deploy your machine learning model as REST-API in less than 1 hour with scikit-learn & docker - 
+https://mechlab-engineering.de/2017/11/deploy-your-machine-learning-model-as-rest-api-in-less-than-1-hour-with-scikit-learn-and-docker/
+
+### Streamlit
+1. Get Started Do the get started chapter - https://docs.streamlit.io/library/get-started
+2. Serving a machine learning model with FastAPI & Streamlit - https://testdriven.io/blog/fastapi-streamlit/
+
+## Additional end to end data engineering courses
+### Data Talks Club
+1. Data Talks Club Data Engineering Zoomcamp - https://github.com/DataTalksClub/data-engineering-zoomcamp
+
+## Guidance from industry experts 
+
+### Zach Wilson (Data Engineering Champion) 
+1. Here's how I would learn dataengineering in 2022: - https://www.linkedin.com/feed/hashtag/keywords=dataengineering&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6922234038824951808
+
+2. Find a data source you care about (examples: Twitter, gaming APIs, stock 
+market, etc)
+3. Use Python to interact and ingest your source. Initially just write the data to a CSV. 
+4. Setup an account with Snowflake or Google BigQuery. 
+5. update your Python script to load a table in Snowflake/BigQuery 
+6. schedule your script with CRON in the cloud 
+7. build aggregations and visualizations on top of your ingested data 
+8. If I had to start learning dataengineering all over again, I’d follow this plan, mostly in order: -  https://www.linkedin.com/feed/hashtag/keywords=dataengineering&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6958613446951137280) 
+
+* Learn SQL Aggregations with GROUP BY — Joins (INNER, LEFT, FULL OUTER) 
+* Window functions & Common table expressions 
+* Learn about data modeling — read about data normalization and 3rd normal form
+* read about fact, dimension, and aggregate tables
+* read about efficient table designs such as cumulative
+* learn about complex data types like MAP, ARRAY, and STRUCT
+
+* Learn Python — Learn loops, if statements — try out some really solid libraries like Pandas, numpy, scikit-learn, and Great Expectations
+
+* Learn about data quality — how do you write a good data check? — how can you implement the write-audit-publish pattern in your pipelines?
+
+* Learn about distributed compute — Read about MapReduce and see how it guided the design of todays distributed computing
+* learn about partitioning, skew, and spilling to disk 
+* learn about job orchestration
+* read about CRON 
+* try out a scheduler like Airflow or Prefect
+* Apply distributed compute principles — a free trial with Snowflake or BigQuery is a good place to start — or try out Spark + S3 if you want to be adventurous 
+
+### Chad Sanderson (Data UX Champion & Data Contracts) - https://designingforanalytics.com/resources/episodes/096-why-chad-sanderson-head-of-product-for-convoys-data-platform-is-a-champion-of-data-ux/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com
+
+## Books I read
+1. Fundamentals of Data Engineering (Reis & Housley)
+2. Python for Everybody (Charles Severance)
+3. Designing Data Intensive Applications (Kleppmann)
+4. Data Science at the Command Line (Janssens)
+5. Unix Power Tools (latest edition O'Reilly, keep it as a reference)
+6. Observability Engineering (Majors, Fong-Jones & Miranda)
+7. Thinking with Data (Max Shron)
