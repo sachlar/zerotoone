@@ -6,6 +6,20 @@
 
 Learn GIT first then every bit of code and documentation you write can be stored in git for reference, so when you learn Python or SQL or any of the tech in this learning path it's stored in github as a living record.
 
+## Basics of git
+git config --gloabl --list
+git config --global user.name "sachlar"
+git config --global user.email "sacharook@gmail.com"
+git init - initialise a local repo
+git add * - add files to repo control 
+git commit -m "commit comment" - commit to local repo ready for push
+git remote add origin https://github.com/sachlar/zerotoone.git
+
+git push -u origin main - push to github repo 
+
+make sure repo exists same name & ensure you have set up public/private keypair and configured in github
+
+
 ### Git & Github
 1. Github Udemy Git & Github Complete Masterclass - https://www.udemy.com/course/git-basic-concept-fundamentals-github/
 2. Github Introduction - https://github.com/skills/introduction-to-github 
